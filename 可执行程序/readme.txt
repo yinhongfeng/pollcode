@@ -1,1 +1,1 @@
-ÓÉÓÚÔÚÊ¹ÓÃPython½âÊÍÆ÷Ö±½ÓÔËÐÐPython³ÌÐòÊ±£¬²»Ö§³ÖÊéÖÐ½éÉÜµÄ²ÊÉ«Êä³ö½á¹û£¨¸Ã²ÊÉ«½á¹ûÐèÒªÍ¨¹ýPyCharmÔËÐÐÊ±²Å¿ÉÒÔÏÔÊ¾£©£¬ËùÒÔÏÔÊ¾Ð§¹ûÓëÊéÖÐ²»Í¬£¬µ«²»Ó°Ïì³ÌÐò¹¦ÄÜ¡£
+Pythonè§£é‡Šå™¨ç›´æŽ¥è¿è¡ŒPythonç¨‹åºæ—¶ï¼Œå½©è‰²ç»“æžœéœ€è¦é€šè¿‡PyCharmè¿è¡Œæ—¶æ‰å¯ä»¥æ˜¾ç¤ºã€‚
